@@ -1,2 +1,3 @@
-# cbcplot
-Plotting CBCs with python
+# GWViz
+
+Visualizing gravitational-wave systems using Python
